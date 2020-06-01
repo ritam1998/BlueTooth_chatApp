@@ -26,3 +26,6 @@ Connect to other devices through service discovery.
 Transfer data to and from other devices.
 
 Manage multiple connections.
+
+# DownLoad Apk File
+
